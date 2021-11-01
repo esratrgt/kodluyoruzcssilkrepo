@@ -1,0 +1,78 @@
+body{
+	padding-top: 50px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.hakkimda{
+	background-color: #f2f2f2;
+}
+
+.icon{
+	border: none;
+	border-top: 3px solid #343a40;
+	max-width: 250px;
+	margin: 25px auto;
+}
+
+.ibeyaz{
+     color: #343a40;
+     position: relative;
+     top: -55px;
+     font-size: 40px;
+     border: 10px solid #f2f2f2 ;
+     background-color: #f2f2f2;
+
+}
+ 
+.calismalarim{
+	background-color: #f2f2f2;
+}
+
+.cardResim > img{
+	height: 200px;
+
+}
+
+.cardResim > img:hover{
+	opacity: 0.8;
+}
+
+.yorum{
+	background-color: #f2f2f2;
+}
+
+.iletisim{
+	background-color: #f2f2f2;
+}
+
+.gizli{
+	width: 950px;
+	height: 200px;
+	background-color: white;
+     float: left;
+     border-radius: 5px;
+     display: none;
+   
+}
+
+.ad{
+	background-color: #f2f2f2;
+     width: 200px;
+	height: 50px;
+	float: left;
+	margin-bottom: 5px;
+	margin-top: 2px;
+}
+ .gzyorum{
+	background-color: #f2f2f2;
+     width: 920px;
+	height: 133px;
+	float: left;
+}
+
+.sil{
+	position: absolute;
+	font-size: 20px;
+	margin-left: 327px;
+	margin-top: 2px;
+}
